@@ -43,9 +43,3 @@ This is a book sharing website that allows an admin to share books to multiple u
    ```
 
 8. Access the application at `http://localhost:8000` in your web browser.# django-book
-# book
-# book
-# book
-# django-book
-# book
-# djangobook
